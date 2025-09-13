@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# C/C++ compiled files
+*.dll
+*.so
+*.dylib
+*.obj
+*.lib
+*.exp
+*.o
+*.a
+
+# IDE specific files
+.vscode/
+.vs/
